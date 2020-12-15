@@ -33,7 +33,7 @@ class FirmsController < ApplicationController
   end
 
   def vcard
-    firm = Firm.new(params.require(:firm).permit!)
+    firm = Firm.new()
 
     vcard = VCardigan.create(version: 4.0)
     vcard.charset 'iso-8859-1'
@@ -44,5 +44,11 @@ class FirmsController < ApplicationController
 
     response.headers['Content-Type'] = 'text/x-vcard; charset=utf-8'
     send_data vcard.to_s, filename: "#{firm.company_name}.vcf"
+  end
+
+  private
+
+  def vcard_params
+    params.require(:firm).permit(:company_name, :phone_number, :email)
   end
 end
