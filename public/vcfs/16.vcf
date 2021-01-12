@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Instal Term Piotr Rachwalik;;;;
+FN;CHARSET=UTF-8:Instal Term Piotr Rachwalik
+EMAIL:biuro@instal-term.com.pl
+TEL;TYPE=WORK:798 574 244
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Szczecińska 52,  Świdwin
+item1.URL:
+item1.LABEL:HomePage
+END:VCARD

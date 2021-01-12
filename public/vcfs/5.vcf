@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Hydro Seb FU Sebastian Jeziorowski;;;;
+FN;CHARSET=UTF-8:Hydro Seb FU Sebastian Jeziorowski
+EMAIL:hydroseb@op.pl
+TEL;TYPE=WORK:502 220 475
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Mirowska  42-202 Częstochowa
+item1.URL:http://www.udraznianierurkobylka.pl
+item1.LABEL:HomePage
+END:VCARD

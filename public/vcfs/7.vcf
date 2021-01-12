@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Łukasz Noga Prima Sort;;;;
+FN;CHARSET=UTF-8:Łukasz Noga Prima Sort
+EMAIL:kontakt@primasortinstalacje.pl
+TEL;TYPE=WORK:536 792 675
+ADR;CHARSET=UTF-8;TYPE=WORK:al. Dębowa 21, 32-005 Niepołomice
+item1.URL:http://www.kaz-bud.pl
+item1.LABEL:HomePage
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Michsan Zakład Instalacyjno-Budowlany;;;;
+FN;CHARSET=UTF-8:Michsan Zakład Instalacyjno-Budowlany
+EMAIL:michsan@onet.pl
+TEL;TYPE=WORK:(34) 362 89 45
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Warmińska 7, 42-202 Częstochowa
+item1.URL:
+item1.LABEL:HomePage
+END:VCARD

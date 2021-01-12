@@ -581,14 +581,15 @@ format: json
 ## Generate VCard Response
 ```vcard
 BEGIN:VCARD
-VERSION:4.0
+VERSION:3.0
 CHARSET:iso-8859-1
 N;CHARSET=UTF-8:Kamil Przęczek;;;;
 FN;CHARSET=UTF-8:Kamil Przęczek
 EMAIL:kamilprzeczek@interia.pl
-TEL;TYPE=["work"]:516 765 572
-ADR;TYPE=["work"];CHARSET=UTF-8:32-020 Grabówki 12
-item1.URL:https://www.hydraulikdabrowagornicza.com/
+TEL;TYPE=WORK:516 765 572
+ADR;CHARSET=UTF-8;TYPE=WORK:32-020 Grabówki 12
+item1.URL:http://www.stanma-instalacje.pl/
 item1.LABEL:HomePage
 END:VCARD
+
 ```

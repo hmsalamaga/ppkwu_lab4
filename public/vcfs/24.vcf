@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Grześpol PHU Grzegorz Polasiński;;;;
+FN;CHARSET=UTF-8:Grześpol PHU Grzegorz Polasiński
+EMAIL:grzespol@op.pl
+TEL;TYPE=WORK:606 986 460
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Lipowa 82/20, 90-568 Łódź
+item1.URL:
+item1.LABEL:HomePage
+END:VCARD

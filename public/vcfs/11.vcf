@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Gamar Marek Garliński;;;;
+FN;CHARSET=UTF-8:Gamar Marek Garliński
+EMAIL:marekgarlinski@wp.pl
+TEL;TYPE=WORK:601 746 608
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Daszyńskiego 10 F/3, 56-400 Oleśnica
+item1.URL:https://hydraulik-zapchania.pl/
+item1.LABEL:HomePage
+END:VCARD

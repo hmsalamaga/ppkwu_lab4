@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Ilmar Technika Grzewcza Jerzy Ilków;;;;
+FN;CHARSET=UTF-8:Ilmar Technika Grzewcza Jerzy Ilków
+EMAIL:ilmar@wp.pl
+TEL;TYPE=WORK:601 787 666
+ADR;CHARSET=UTF-8;TYPE=WORK:pl. Stanisława Staszica 15/8, 50-238 Wrocław
+item1.URL:http://instalpulawy.pl/
+item1.LABEL:HomePage
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Łukasz Radochoński Hydroanet;;;;
+FN;CHARSET=UTF-8:Łukasz Radochoński Hydroanet
+EMAIL:hydroanet13@gmail.com
+TEL;TYPE=WORK:695 155 269
+ADR;CHARSET=UTF-8;TYPE=WORK:37-722 Wyszatyce 231
+item1.URL:http://www.jacoterm.pl
+item1.LABEL:HomePage
+END:VCARD

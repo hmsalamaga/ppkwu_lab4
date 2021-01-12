@@ -9,13 +9,13 @@ class FirmsController < ApplicationController
   def vcard
     firm = Firm.new(vcard_params)
 
-    vcard = VCardigan.create(version: 4.0)
+    vcard = VCardigan.create(version: 3.0)
     vcard.charset 'iso-8859-1'
     vcard.name firm.company_name, charset: 'UTF-8'
     vcard.fullname firm.company_name, charset: 'UTF-8'
     vcard.email firm.email
-    vcard.tel firm.phone_number, type: ['work']
-    vcard.adr firm.address, type: ['work'], charset: 'UTF-8'
+    vcard.tel firm.phone_number, type: 'WORK'
+    vcard.adr firm.address, charset: 'UTF-8', type: 'WORK'
     vcard[:item1].url firm.website
     vcard[:item1].label 'HomePage'
 

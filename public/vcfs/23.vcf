@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Hydro Seb FU Sebastian Jeziorowski;;;;
+FN;CHARSET=UTF-8:Hydro Seb FU Sebastian Jeziorowski
+EMAIL:hydroseb@op.pl
+TEL;TYPE=WORK:502 220 475
+ADR;CHARSET=UTF-8;TYPE=WORK:42-244 Srocko 64
+item1.URL:http://www.tomaszsalbut.pl
+item1.LABEL:HomePage
+END:VCARD

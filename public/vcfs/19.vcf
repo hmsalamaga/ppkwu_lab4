@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:M-Instalacje Michał Filipkiewicz;;;;
+FN;CHARSET=UTF-8:M-Instalacje Michał Filipkiewicz
+EMAIL:instalacje.filipkiewicz@gmail.com
+TEL;TYPE=WORK:508 455 843
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Słomiana 4/44, 30-316 Kraków
+item1.URL:http://instalpulawy.pl/
+item1.LABEL:HomePage
+END:VCARD

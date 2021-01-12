@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Adam Kołota Udrażnianie rur;;;;
+FN;CHARSET=UTF-8:Adam Kołota Udrażnianie rur
+EMAIL:joanna-kolota@wp.pl
+TEL;TYPE=WORK:781 266 854
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Zaciszna 30A, 05-230 Kobyłka
+item1.URL:http://www.hydraulik-instalacje-krakow.pl
+item1.LABEL:HomePage
+END:VCARD

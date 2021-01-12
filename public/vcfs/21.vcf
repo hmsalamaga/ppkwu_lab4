@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Hydro Instal Przyłącza Wod-Kan;;;;
+FN;CHARSET=UTF-8:Hydro Instal Przyłącza Wod-Kan
+EMAIL:hydro-instal11@wp.pl
+TEL;TYPE=WORK:728 916 865
+ADR;CHARSET=UTF-8;TYPE=WORK:ul. Chorzowska 3, 26-603 Radom
+item1.URL:http://www.m-instalacje.pl
+item1.LABEL:HomePage
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+CHARSET:iso-8859-1
+N;CHARSET=UTF-8:Technika Grzewcza I Sanitarna Instal Paweł Szeląg;;;;
+FN;CHARSET=UTF-8:Technika Grzewcza I Sanitarna Instal Paweł Szeląg
+EMAIL:tgis.instal@gmail.com
+TEL;TYPE=WORK:515 079 481
+ADR;CHARSET=UTF-8;TYPE=WORK:24-120 Zbędowice 13
+item1.URL:http://www.instal-term.com.pl
+item1.LABEL:HomePage
+END:VCARD
