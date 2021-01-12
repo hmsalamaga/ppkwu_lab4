@@ -18,7 +18,6 @@ class FirmsController < ApplicationController
     vcard.adr firm.address, type: ['work'], charset: 'UTF-8'
     vcard[:item1].url firm.website
     vcard[:item1].label 'HomePage'
-    puts vcard
 
     response.headers['Content-Type'] = 'text/x-vcard; charset=utf-8'
     send_data vcard.to_s, filename: "#{firm.company_name}.vcf"
