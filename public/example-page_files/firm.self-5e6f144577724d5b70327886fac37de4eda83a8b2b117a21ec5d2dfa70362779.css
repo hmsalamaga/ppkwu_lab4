@@ -1,0 +1,25 @@
+/* line 1, /Users/hmsalamaga/Study/ppkwu_lab4/app/assets/stylesheets/firm.scss */
+.userlist {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+}
+
+/* line 9, /Users/hmsalamaga/Study/ppkwu_lab4/app/assets/stylesheets/firm.scss */
+.user-profile {
+  width: 500px;
+  position: relative;
+  display: flex;
+  min-height: 200px;
+  flex-direction: column;
+  margin: 40px 10px;
+  -webkit-box-pack: justify;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f8f7;
+  border: 1px solid #DADADA;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
