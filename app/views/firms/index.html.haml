@@ -1,3 +1,6 @@
 .userlist.userdetails
+  = form_tag(firms_path, method: :get) do
+    = text_field_tag(:search, params[:search])
+    = submit_tag("Search")
   - @firms.each do |firm|
     = render partial: 'profile', locals: { firm: firm }

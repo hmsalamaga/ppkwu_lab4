@@ -5,5 +5,9 @@
     = firm.email
     %br
     = firm.phone_number
+    %br
+    = firm.address
+    %br
+    = firm.website
   .buttons
     = button_to "Wygeneruj vCard", button_path, method: :get, params: { firm: firm.to_h }
